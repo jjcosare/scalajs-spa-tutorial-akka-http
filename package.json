@@ -2,7 +2,7 @@
   "name": "scalajs-spa",
   "version": "1.0.0",
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "sassify": "^4.0.1"
   }
 }
